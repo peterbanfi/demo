@@ -1,0 +1,2 @@
+let server;
+server = false;
