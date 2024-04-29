@@ -1,4 +1,4 @@
 let app = 'Hello World';
-app = 'Hello World 2';
+app = 'Hello Collab 2';
 
 console.log(app);
