@@ -1,1 +1,2 @@
 let server;
+server = true;
