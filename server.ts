@@ -1,2 +1,2 @@
 let server;
-server = false;
+server = true;
