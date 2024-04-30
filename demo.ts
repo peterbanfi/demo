@@ -1,4 +1,4 @@
 let app = 'Hello Develop change';
-app = 'Story Base Frontend 4';
 
+app = 'Story Frontend Part'
 console.log(app);
